@@ -4,6 +4,10 @@
 * https://www.raspberrypi.com/products/raspberry-pi-zero-w/
 * Use with Opteka 67mm IR filters, 720nm high pass
 
+![real_thing.gif](media/real_thing.gif)
+
+## Assembly
+
 ![assembly.gif](media/assembly.gif)
 
 ## Example of LED Lamp with bandpass IR
