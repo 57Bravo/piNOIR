@@ -13,6 +13,6 @@
 
 ![assembly.gif](media/assembly.gif)
 
-## Example of fireworks with bandpass IR
+## Example of fireworks with high pass IR
 
 ![example.gif](media/example.gif)
