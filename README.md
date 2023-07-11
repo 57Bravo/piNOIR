@@ -13,6 +13,6 @@
 
 ![assembly.gif](media/assembly.gif)
 
-## Example of LED Lamp with bandpass IR
+## Example of fireworks with bandpass IR
 
 ![example.gif](media/example.gif)
